@@ -22,7 +22,6 @@
 				<Property Name="App_INI_GUID" Type="Str">{9A7D89F2-C3EC-4E75-9E5A-437D3C0BD931}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="App_serverType" Type="Int">0</Property>
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{C3139254-F690-490D-A25F-CBC9F58FBFEE}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">DCPower Single Meas Per Trigger</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
@@ -41,7 +40,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/DCPower Single Meas Per Trigger/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A9E03473-03FB-48CD-9275-953E5C769532}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{35DA5D1C-CAE2-4B87-A394-65212F5DB1F4}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/DCPower Single Meas Per Trigger.lvclass/Run Service.vi</Property>
@@ -62,7 +61,6 @@
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 			<Item Name="DCPower Single Meas Per Trigger UI" Type="Packed Library">
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{E72FE365-9DD7-4D58-8140-98B53D08A539}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">DCPower Single Meas Per Trigger UI</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
@@ -82,7 +80,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A9E03473-03FB-48CD-9275-953E5C769532}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{35DA5D1C-CAE2-4B87-A394-65212F5DB1F4}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/DCPower Single Meas Per Trigger UI.lvlib</Property>
